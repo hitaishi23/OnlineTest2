@@ -1,0 +1,1 @@
+<h1>Error in student ${message} operation: Currently DB server is unavailable</h1>
