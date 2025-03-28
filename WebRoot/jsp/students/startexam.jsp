@@ -149,13 +149,6 @@ body {
 	font-weight: bold;
 }
 
-.btn-box {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	gap: 20px;
-}
-
 .pre-btn,.next-btn {
 	padding: 8px 16px;
 	border: none;
@@ -165,6 +158,7 @@ body {
 	display: inline-block;
 	margin-top: 20px;
 }
+
 </style>
 </head>
 <body>

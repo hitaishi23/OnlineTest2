@@ -24,8 +24,3 @@
 <h2>Correct: <%= correct%></h2>
 <h2>Wrong: <%= wrong%></h2>
 <h2>Unattemptted: <%= total - (correct+wrong) %></h2>
-
-
-
-
-
